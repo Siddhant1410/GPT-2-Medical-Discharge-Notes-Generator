@@ -1,0 +1,1828 @@
+RECORD #433
+979128258 | FMC | 19635378 | | 101263 | 7/14/2001 12:00:00 AM | SOB , incisional hernia | | DIS | Admission Date: 11/19/2001 Report Status:
+Discharge Date: 1/20/2001
+****** DISCHARGE ORDERS ******
+HERLEY , WILBER 572-07-61-6
+Oter Pope Cuse Room: 52Q-593
+Service: MED
+DISCHARGE PATIENT ON: 6/14/01 AT 06:00 PM
+CONTINGENT UPON HO evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: CARMOUCHE , IRVIN WARNER , M.D.
+CODE STATUS:
+Full code
+DISPOSITION: Home
+DISCHARGE MEDICATIONS:
+ATENOLOL 50 MG PO QD Starting Today ( 8/7 )
+Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+KLONOPIN ( CLONAZEPAM ) 1 MG PO TID
+Override Notice: Override added on 6/14/01 by
+WICHROWSKI , CHRIS
+on order for AZITHROMYCIN PO ( ref # 81903767 )
+POTENTIALLY SERIOUS INTERACTION: CLONAZEPAM &amp; AZITHROMYCIN
+Reason for override: Monitor
+PROZAC ( FLUOXETINE HCL ) 20 MG PO QD
+ZESTRIL ( LISINOPRIL ) 10 MG PO QD
+NIFEREX-150 150 MG PO BID
+PERCOCET 1-2 TAB PO Q4H PRN pain
+PREDNISONE Taper PO QAM
+Give 60 mg QD X 1 day( s ) ( 6/14/01 9/28/01 ) , then ---done
+Give 40 mg QD X 1 day( s ) ( 1/6/01 6/27/01 ) , then ---done
+Give 20 mg QD X 2 day( s ) ( 5/6/01 7/24/01 ) , then ---done
+Starting Today ( 8/7 )
+ALBUTEROL NEBULIZER 2.5 MG NEB Q4H PRN SOB
+ATROVENT NEBULIZER ( IPRATROPIUM NEBULIZER )
+0.5 MG NEB QID
+DIET: House / Low chol/low sat. fat
+RETURN TO WORK: Immediately
+FOLLOW UP APPOINTMENT( S ):
+VOYTINE ELLCEAN HOSPITAL clinic nurse 6/2/01 ,
+Dr. Whittmore 2 wks ,
+No Known Allergies
+ADMIT DIAGNOSIS:
+SOB
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+SOB , incisional hernia
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+Borderline HTN Anxiety D/O PPD + s/p INH G5P4TAB1 obesity
+obstructive sleep apnea psoriasis
+OPERATIONS AND PROCEDURES:
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+None.
+BRIEF RESUME OF HOSPITAL COURSE:
+37 yo w/h/o multiple admissions for atypical chest pain , PMH of
+morbid obesity , s/p gastric bypass 11/27 sleep apnea , borderline HTN ,
+p/w asthma flare , SOB. Had cath 10/1/01 w/ clean coronaries. D/c'd 5/6
+w/
+alb and atr inhalers as well as prednisone taper and azithromycin for
+dx of tracheobronchitis. Since d/c reports worsening cough prod of
+scant white sputum and incr. SOB. Also noted painful diastasis bulge
+along gastric bypass incision. SOB responded to Nebs in ED.
+Pts respiratory status at baseline ( PFR here 250 , at home 200-250 per
+pt ). Main complaint
+seemed to be incisional hernia. Was seen by surgery who will follow pt.
+Soc svcs were consulted , and patient will f/u w/ PMD in WOODFEAR WADLLEYSAS COMMUNITY MEDICAL CENTER clinic and
+w/ IN PWEEKS HOSPITAL nsg. Pt will f/u with Dr. TOOT of Surgery in TWO WEEKs.
+( Ms. Nidiffer may call Dr. Ruthledge 's office at 353-144-7192 to choose
+the best time for her schedule on 5/26/01 ).
+ADDITIONAL COMMENTS:
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+No dictated summary
+ENTERED BY: OCKEY , LEVI JESSE , M.D. ( TD84 ) 6/14/01 @ 04
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #801
+808901044 | SUMCO | 76459162 | | 868711 | 1/9/1996 12:00:00 AM | Discharge Summary | Unsigned | DIS | Admission Date: 4/8/1996 Report Status: Unsigned
+Discharge Date: 7/18/1996
+PRINCIPAL DIAGNOSIS: CALCIFIED AORTIC STENOSIS.
+ADDITIONAL DIAGNOSES: CORONARY ARTERY DISEASE , STATUS POST
+CORONARY ARTERY BYPASS SURGERY IN 1989.
+NON-INSULIN-DEPENDENT DIABETES MELLITUS.
+HYPERTENSION.
+PSORIASIS.
+HISTORY OF PRESENT ILLNESS: The patient is a 61-year-old lady with
+known history of coronary artery
+disease , who underwent coronary artery bypass grafting x three in
+1989 , with left internal mammary artery to the left anterior
+descending , saphenous vein graft to the obtuse marginal , and
+saphenous vein graft to the right coronary artery. In the last
+four months , she experienced chest tightness and dyspnea on
+exertion , and during the last month , her fatigue was extreme. The
+patient was admitted on 3/14/96 to Missi.ell Hospital where an
+echocardiogram revealed low-normal ejection fraction with severe
+aortic stenosis and mild aortic insufficiency. Aortic valve area
+was calculated on 0.8 square centimeters. Cardiac catheterization ,
+performed in the same hospital , revealed an ejection fraction of
+66% with normal pulmonary artery pressures , aortic valve area of
+0.6 square centimeters , and gradient across the valve of 44 mm
+of Hg. Native coronary artery disease showed 70% stenosis of the
+left main , occluded left anterior descending , 50% stenosis of the
+obtuse marginal , and 70% stenosis of the right coronary arteries.
+The graft to the left anterior descending and to to the OM1 were
+patent. The saphenous vein graft to the right coronary artery was
+occluded.
+ADMISSION MEDICATIONS: Aspirin 325 mg p.o. q.d. Micronase. Lasix
+40 mg q. d. Captopril 12.5 mg p.o. t.i.d.
+Procardia. Colace.
+PHYSICAL EXAMINATION: GENERAL: Pleasant 61-year-old lady.
+Afebrile. VITAL SIGNS: Pulse 72 and
+regular. Blood pressure 106/80. NECK: Supple. No bruits.
+LUNGS: Clear. HEART: S1 and S2 clear. A 3/6 systolic murmur
+over right upper sternal border. ABDOMEN: Soft. Benign.
+Nontender. EXTREMITIES: Saphenous vein graft harvesting scar on
+the medial aspect of the left thigh. Pressure pulse palpable.
+NEUROLOGIC: Intact.
+LABORATORY DATA: Sodium was 140 , potassium 3.7 , BUN 24 , creatinine
+0.7 , glucose 204 , white count ___ , hematocrit 40.
+HOSPITAL COURSE: Due to the significant aortic stenosis and
+severity of the symptoms , the patient was
+referred to Cardiac Surgery for an aortic valve replacement and
+possible coronary artery bypass grafting. The patient underwent
+aortic valve replacement with a St. Jude valve on November , 1996;
+the surgeon was Dr. Theis The immediate postoperative course
+was uneventful. The patient was extubated on the first
+postoperative day and transferred to the floor. Further recovery
+on the floor was not associated with significant complications.
+Antibiotic therapy with Ofloxacin was started for the urinary tract
+infection. The patient regained a significant level of her
+preoperative physical ability. Anticoagulation with Coumadin was
+started on the first postoperative day. The patient was discharged
+from the hospital in stable postoperative condition on July ,
+1996 , with:
+DISCHARGE MEDICATIONS: Tylenol one to two tablets q. three to four
+hours. Lasix 40 mg p.o. q. d. Micronase 5
+mg p.o. b.i.d. Lopressor 50 mg p.o. b.i.d. Procardia XL 30 mg
+p.o. b.i.d. Coumadin , according to the INR values with goal values
+of 2 to 2.5. Ofloxacin 200 mg p.o. b.i.d. for four days.
+Dictated By: PERRY PRINGLE , M.D. EH82
+Attending: GIUSEPPE E. RUBERTI , M.D. IN0
+UY247/4423
+Batch: 91871 Index No. B1QUDV7NCW D: 10/8/96
+T: 7/12/96
+[report_end]
+
+RECORD #1079
+
+
+201181205 | WMC | 41483451 | | 2810569 | 9/8/2005 12:00:00 AM | CAD | | DIS | Admission Date: 9/0/2005 Report Status:
+
+Discharge Date: 7/24/2005
+****** DISCHARGE ORDERS ******
+FILIPPONE , WINFORD 395-78-95-7
+Ce
+Service: CAR
+DISCHARGE PATIENT ON: 6/28/05 AT 04:00 PM
+CONTINGENT UPON Not Applicable
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: MALETZ , GASTON RASHAD , M.D.
+CODE STATUS:
+Full code
+DISPOSITION: Rehabilitation
+DISCHARGE MEDICATIONS:
+ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD
+LASIX ( FUROSEMIDE ) 60 MG PO BID
+GEMFIBROZIL 600 MG PO BID
+Alert overridden: Override added on 9/29/05 by
+KORWIN , DARIUS , M.D.
+SERIOUS INTERACTION: SIMVASTATIN &amp; GEMFIBROZIL
+POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN &amp; GEMFIBROZIL
+Reason for override: aware
+NPH HUMULIN INSULIN ( INSULIN NPH HUMAN )
+54 UNITS QAM; 32 UNITS QPM SC 54 UNITS QAM 32 UNITS QPM
+INSULIN REGULAR HUMAN
+Sliding Scale ( subcutaneously ) SC AC+HS
+If BS is less than 125 , then give 0 units subcutaneously
+If BS is 125-150 , then give 2 units subcutaneously
+If BS is 151-200 , then give 3 units subcutaneously
+If BS is 201-250 , then give 4 units subcutaneously
+If BS is 251-300 , then give 6 units subcutaneously
+If BS is 301-350 , then give 8 units subcutaneously
+If BS is 351-400 , then give 10 units subcutaneously and
+call HO Call HO if BS is greater than 400
+LISINOPRIL 20 MG PO QD
+Override Notice: Override added on 9/29/05 by
+HOLTZBERG , TONEY , M.D.
+on order for KCL IMMEDIATE RELEASE PO ( ref # 23805455 )
+POTENTIALLY SERIOUS INTERACTION: LISINOPRIL &amp; POTASSIUM
+CHLORIDE Reason for override: to replete k
+NIFEREX-150 150 MG PO QD
+Instructions: please give at a separate time from
+levofloxacin
+Alert overridden: Override added on 9/29/05 by
+SCHWOYER , JAMIE , M.D.
+POTENTIALLY SERIOUS INTERACTION: LEVOFLOXACIN &amp;
+POLYSACCHARIDE IRON COMPLEX Reason for override:
+will separate temporally from levo administration
+NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL q 5 minutes X 3
+PRN Chest Pain HOLD IF: SBP &lt; 100
+ZOCOR ( SIMVASTATIN ) 80 MG PO QHS
+Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+Override Notice: Override added on 9/29/05 by
+MARISCAL , MARIANO , M.D.
+on order for GEMFIBROZIL PO ( ref # 36438400 )
+SERIOUS INTERACTION: SIMVASTATIN &amp; GEMFIBROZIL
+POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN &amp; GEMFIBROZIL
+Reason for override: aware
+TOPROL XL ( METOPROLOL ( SUST. REL. ) ) 12.5 MG PO QD
+Starting Today ( 6/1 ) Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+Number of Doses Required ( approximate ): 5
+IMDUR ( ISOSORBIDE MONONIT.( SR ) ) 90 MG PO QD
+Food/Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after
+food )
+PLAVIX ( CLOPIDOGREL ) 75 MG PO QD
+ESOMEPRAZOLE 20 MG PO QD
+DIET: House / Low chol/low sat. fat
+DIET: 2 gram Sodium
+ACTIVITY: Walking as tolerated
+FOLLOW UP APPOINTMENT( S ):
+PCP in 1-2 weeks ,
+Dr Vanblaricum in 1-2 weeks ,
+ALLERGY: NKA
+ADMIT DIAGNOSIS:
+chest pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+CAD
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+CAD s/p 4v CABG '94 ( coronary artery disease ) CHF , EF 50% '01
+( congestive heart failure ) DM ( diabetes mellitus ) Anemia , 32-36
+( anemia ) CVA ( cerebrovascular accident ) s/p CCY ( S/P
+cholecystectomy ) Blindness ( visual impairment )
+OPERATIONS AND PROCEDURES:
+none
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE:
+70 yo WF with h/o CAD s/p CABG , CHF , CVA , chronic anemia , adm w
+CP x 1 day; awoke at rehab with urinary urgency and nurse not
+available , had cp that spont resolved; No orthopnea/PND , LE edema ,
+LH/dizzy , chills , EKG showed lat ST depr , NZ( - ) x1; Exam: NAD. JVD
+&lt;10 cm. RRR 3/6 SEM +S3. CTAB. Abd dist , tympanic. Guaiac neg. no LE
+edema bilat.
+Hospital Course: 1. CV: I-recent cath 3/3 showed 100% prox LAD , 90%
+LCx , 40% marg 1 , 100% prox RCA , 2 occl + 1 patent CABG v ( unchgd from
+last cath in '99 ). pt was r/o with nz's ans serail EKG's; needs to Cont
+med mgmt w ASA , ACE , Plavix. P-H/o CHF w likely diast dysfxn , echo 0/8
+showed EF 55% , no WMA , tr MR , trivial peric eff. pt remained euvolumic
+in house on aint lasix; R/R: Pt had been on toprol 75 on admit but has
+HR here in 40s when awake w/o any B-Blocker. will dc on 12.5 qd; consid
+er o/p EP eval for pacer to get B-blocker on baord.
+2. Endo: pt was cont on her home dose of nph + RISS.
+3. Renal: Cr Stable.
+ADDITIONAL COMMENTS: please take all meds as prescribed; if you HR is low&lt;45 please call
+your doctor immediately; monitor weights; f/u with pcp and cardiogist
+in 1-2 weeks;
+DISCHARGE CONDITION: Satisfactory
+TO DO/PLAN:
+pt to cont on anti anginal regimen and maint lasix; moniotr weights;
+pt/ot bid; consider o/p eval for possible ppm if bradycardis still an
+issue; abx for 7 days for UTI;
+No dictated summary
+ENTERED BY: FUERTE , HORACE , M.D. ( SO79 ) 6/28/05 @ 02:13 PM
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #1109
+990823337 | AMC | 60025782 | | 8792345 | 11/12/2006 12:00:00 AM | CONGESTIVE HEART FAILURE , ATRIAL FIBRILLATION | Signed | DIS | Admission Date: 8/26/2006 Report Status: Signed
+Discharge Date: 4/2/2006
+ATTENDING: COFFELL , TOMAS MD
+HISTORY OF PRESENT ILLNESS:
+The patient was admitted for an elective right heart
+catheterization and reassessment of refractory CHF and atrial fibrillation He
+is a 62-year-old man with
+a history of nonischemic cardiomyopathy with an EF of 30% who was diagnosed
+about ten years ago and has been stable with medical management
+until this past year when he started developing worsening dyspnea
+on exertion , orthopnea , palpitations , and PND. His functional
+status has declined significantly since then. In 7/26 , he was
+admitted for decompensated heart failure and diuresed back to dry
+weight. An ICD was placed at that time. Following discharge , he
+developed AFib with rapid ventricular response and underwent DC
+cardioversion with Dr. Gerry Canseco however , relapsed shortly ,
+thereafter. He was started on amiodarone , but developed a
+question of pulmonary toxicity with significant dry coughing. He
+was continued to be in atrial fibrillation with rapid ventricular
+response despite maximal carvedilol and digoxin. He is now being
+electively admitted for right heart catheterization , diuresis ,
+and possible repeat cardioversion versus amiodarone challenge ,
+and completion of his transplant evaluation.
+PAST MEDICAL HISTORY:
+Nonischemic cardiomyopathy , EF of 30% , atrial fibrillation status
+post ICD placement , echo in 1/28 with an EF of 30-35% with a
+dilated LV and anterior wall and septal hypokinesis , mild mitral
+regurgitation , hypertension , hyperlipidemia , and diabetes.
+MEDICATIONS AT HOME:
+Include aspirin 325 mg daily , carvedilol 25 mg b.i.d. , digoxin
+0.125 mg daily , Lasix 60 mg p.o. daily , lisinopril 20 mg p.o.
+daily , Vytorin 10 mg p.o. daily , Protonix 40 mg p.o. daily ,
+metformin 500 mg p.o. b.i.d. , glyburide 2.5 mg p.o. b.i.d. ,
+Coumadin , iron sulfate 325 mg daily , and magnesium gluconate 500
+mg p.o. b.i.d.
+ALLERGIES:
+He has a questionable allergy to amiodarone.
+SOCIAL HISTORY:
+Lives on Ence He does not drink , smoke , or use any other
+drugs.
+PHYSICAL EXAM ON ADMISSION:
+He was afebrile with a heart rate of 106 in atrial fibrillation.
+His blood pressure is 102/78 and satting 98% on room air. He was
+in no distress. His JVP was approximately 12 cm. He had a right
+ventricular heave. His rate was irregularly irregular with an
+S3 , no murmurs. Chest is clear to auscultation. He had a
+palpable pulsatile liver tip , but otherwise , his abdomen was
+benign. He had no lower extremity edema.
+HOSPITAL COURSE BY SYSTEM:
+He is a 62-year-old man with nonischemic cardiomyopathy , EF 30% ,
+awaiting transplant who is now admitted for right heart
+catheterization and diuresis for volume overload and possible
+amiodarone challenge versus cardioversion , rate and rhythm
+control atrial fibrillation.
+Cardiovascular: The patient had no evidence of ischemia. He was
+mildly volume overloaded and was gently diuresed with p.o. Lasix
+and eventually b.i.d. p.o. torsemide at 60 mg b.i.d. He was
+diuresed onto his dry weight of 70 kilograms. He underwent
+exercise stress testing and was able to go for 7 minutes without
+any ischemic changes. His rhythm rate was in atrial fibrillation
+throughout. He has peak oxygen uptake with above is anaerobic
+threshold and his peak respiratory exchange ratio was 1.44. He
+underwent a chest CT , which showed no evidence of amiodarone
+pneumonitis or interstitial disease , and then was subsequently
+started on amiodarone challenge in attempts to rhythm and rate
+control of atrial fibrillation. He was resistant to the
+amiodarone in terms of rate and rhythm control; however , began
+developing elevated LFTs consistent with amiodarone hepatitis as
+well as a persistent dry cough concerning for amiodarone
+pulmonary toxicity. The amiodarone was stopped and he was
+started on dofetilide at 125 mg p.o. b.i.d. for correcting for
+his creatinine clearance. After 2 doses of dofetilide , he
+converted to normal sinus rhythm and was rate controlled in the
+70s and 80s. His QTc was followed twice a day and did not show
+any signs of prolongation. He was finally being discharged on
+dofetilide for rate and rhythm control as he is now in normal
+sinus rhythm. He will also go home on torsemide 60 mg p.o.
+b.i.d. to maintain his dry weight. He has been instructed to
+continue taking his glyburide , but not his metformin given his
+poor creatinine clearance being discharged with a creatinine of
+1.6 and the fact that he is on metformin. He will see his
+primary care doctor and will either likely be started on low-dose
+insulin or another oral hypoglycemic agent. He will follow up
+with his primary care doctor and Dr. Rosasco for continued
+transplant evaluation.
+DISCHARGE MEDICATIONS:
+Include carvedilol 25 mg p.o. b.i.d. , darbepoetin 100 mcg
+subcutaneous q. week , digoxin 0.125 mg p.o. every other day ,
+dofetilide 125 mcg p.o. b.i.d. , Vytorin one tab p.o. daily , iron
+sulfate 325 mg p.o. b.i.d. , glyburide 5 mg p.o. b.i.d. , potassium
+40 mEq p.o. daily , lisinopril 10 mg p.o. daily , Protonix 40 mg
+p.o. daily , torsemide 50 mg p.o. b.i.d. , Coumadin 2 mg p.o.
+q.p.m.
+FINAL ADDENDUM:
+The patient will continue taking his Coumadin for goal INR of 2-3
+and follow up at the Vent Buffbo Medical Center Coumadin Clinic , in addition , he
+received one unit of packed red blood cells for anemia of chronic
+disease and was given IV iron therapy and will continue the
+patient on oral iron replacement.
+eScription document: 3-0962757 EMSSten Tel
+Dictated By: GRABILL , SERGIO
+Attending: LOLL , JACINTO
+Dictation ID 0675605
+D: 4/15/06
+T: 4/15/06
+[report_end]
+
+RECORD #1374
+738893728 | A&H | 89110693 | | 7622756 | 2/8/2003 12:00:00 AM | Discharge Summary | Signed | DIS | Admission Date: 2/8/2003 Report Status: Signed
+Discharge Date:
+ATTENDING: BRADLEY ZENI MD
+CHIEF COMPLAINT: Shortness of breath , hematuria.
+HISTORY OF PRESENT ILLNESS: This is a 61-year-old gentleman with
+a history of chronic renal insufficiency , elevated ammonia levels
+chronically , CAD , ischemic cardiomyopathy with an EF of 40% in
+LVH , recently discharged from Longlate General Medical Center on 3/28
+and subsequently transferred to Ieu University Medical Center The patient
+presents with increased shortness of breath. The prior admission
+was related to renal failure and increased encepholopathy ( no
+dictated summary available ). The patient reported doing well in
+rehab for several days. However , over the past 2-3 days the
+patient developed increased shortness of breath , and dyspnea on
+exertion with very minimal movement. The patient reports stable
+two pillow orthopnea. No upper respiratory symptoms. No fevers ,
+chills , nausea or vomiting. The patient without palpitation.
+The patient does report that shortness of breath was increased
+over past baseline. The patient also notes noted increased
+hematuria , although the patient has had a chronic hematuria for
+over 1-2 years per patient. The patient does report that he had
+a Foley in during the prior admission , and has had increased
+hematuria since that discharge. The patient denies chest pain.
+The patient was felt to have "crackles" at the rehab , and was
+sent to the Ridwill Child for further care. In ED
+the patient was afebrile , heart rate of 74 , blood pressure
+127/75 , and satting 95% on room air. He was given 80 IV Lasix ,
+Percocet and Lactulose for elevated ammonia. Labs were notable
+for elevated BNP of 655 , elevated ammonia of 83.
+PAST MEDICAL HISTORY:
+1. Morbid obesity.
+2. Diabetes.
+3. Chronic hyper ammonium levels NH3 ranging from 70 to 90
+( prior workup largely negative however never able to image the
+abdomen secondary to severe obesity ).
+4. History of normal LFTs in the past.
+5. Hypertension.
+6. CAD and past troponin leak early 10/14
+7. Chronic leg pain.
+8. History of VT on sotalol.
+9. Migraines.
+10. Hypercholesterolemia.
+11. Chronic renal insufficiency with a baseline creatinine of
+approximately 3.7 - 3.9.
+12. BPH status post Targis procedure.
+13. Anemia.
+14. Anxiety.
+15. History of multiple myeloma , monoclonal gammopathy status
+post Cytoxan.
+MEDICATIONS:
+1. Sotalol 40 mg p.o. b.i.d.
+2. Klonopin.
+3. Lasix 80 mg p.o. b.i.d.
+4. Calcitriol.
+5. Aspirin 325 mg p.o. q.day.
+6. Sodium bicarb.
+7. Atorvastatin 40 q.day.
+8. Phoslo 667 t.i.d.
+9. Toprol 100 p.o. q.day.
+10. Lactulose 30 mg q.i.d.
+11. Epogen.
+12. CPAP at night.
+13. Doxepin.
+14. NPH 8 units q.a.m.
+15. Proscar.
+ALLERGIES: Ciprofloxacin , Codeine causing rash and dizziness.
+SOCIAL HISTORY: The patient lives with wife. No tobacco or
+alcohol history.
+PHYSICAL EXAMINATION: The patient was afebrile with a heart rate
+of 82 , blood pressure 132/72 , respiratory rate 94% on room air ,
+weight 420 lbs. General: Morbidly obese , speaking in full
+sentences. HEENT: Oropharynx clear , anicteric sclerae. Neck:
+JVP less than 6 cm though difficult to assess secondary to
+habitus. No lymphadenopathy. Cardiovascular: RRR , no MRG , no
+S3 or S4 appreciated. Lungs: Increased crackles at the bases.
+Abdomen: Obese , no obvious liver edge , no fluid wave.
+Extremities: Lower extremity edema approximately 2-3+. Skin:
+The patient with chronic excoriations on abdomen ( the patient
+reports they have been improving over the past year ) , and the
+patient also with chronic ulcer/lesions throughout lower legs
+bilaterally. Neuro: The patient was alert and oriented x3.
+Motor strength someone decreased proximal leg and arms.
+LABORATORY DATA: Sodium 139 , potassium 4.1 , chloride 103 , CO2
+26 , BUN 64 , creatinine 4.0 ( baseline creatinine of 3.7 - 3.9 ) ,
+albumin 3.4 , white count of 7.1 , hematocrit of 33.5 , platelets of
+137 , ( baseline hematocrit usually 32-35 ) , LFTs within normal
+limits ( ALT , AST , alk phos , T bili ). First set of ED enzymes
+were negative. BNP elevated at 655. Ammonia elevated at 83.
+INR 1.2 , PTT 36.
+Chest x-ray revealed enlarged central pulmonary arteries which
+were suggestive of pulmonary hypertension in this patient with
+obstructive sleep apnea , left base subsegmental atelectasis. EKG
+first degree AV block , left axis deviation , a left ??anticular??
+vesicular block , no ST or T-wave changes. UA with 3+ blood ,
+15-20 white blood cells , trace bacterial. Of note , renal
+ultrasound on 8/18/03 ( prior admission )I revealed no
+hydronephrosis , distended gallbladder with multiple small stones.
+ETT MIBI on 3/24/03 stress images only performed revealed small
+area of myocardial scar in mid LAD/diagonal territory with
+moderate stress induced peri-infarct ischemia. Echo performed
+8/18/03 revealed an EF of 45-50% , positive LVH. Inferior and
+lateral hypokinesis.
+HOSPITAL COURSE:
+1. Ischemia: The patient with a history of CAD and positive
+MIBI in 10/14 The patient with no EKG changes , and also no
+chest pain. The patient initially continued on aspirin , beta
+blocker and a statin. On 8/4/03 the patient with a troponin
+leak ( peak of .84 ) which subsequently trended down. The patient
+also had had a prior troponin leak prior to the previously
+described MIBI. At that time cardiology was following and
+recommended medical management secondary to difficulty with
+aggressive intervention in this patient. For this admission ,
+cardiology was again consulted and cardiology recommended doing a
+repeat MIBI to assess. The MIBI was completed on 3/14/03 and
+results are pending at the time of this dictation. Again , very
+difficult to perform intervention secondary to habitus.
+Continued aspirin , beta blocker and statin. To follow up with
+Cardiology for further read of the MIBI test. Pump: The patient
+with elevated BNP and some fluid overload. Chest x-ray as
+described above ( also a question of small pleural effusion slowly
+improved from before ). It was felt that the patient's shortness
+of breath could be secondary to increased pulmonary edema. So ,
+the patient's Lasix was increased to 80 mg p.o. t.i.d. ( from
+b.i.d. dosing ). Prior echo is as described above , revealing an
+EF of 45%. The patient did have successful diuresis on the
+increased Lasix dosing. On 6/11 the Lasix was lowered back to
+b.i.d. dosing since the patient's creatinine began to rise.
+Creatinine normalized to patient's baseline on 0/2 At time of
+discharge the patient is on a home regimen of Lasix 80 mg p.o.
+b.i.d. Rhythm: The patient with a history of VT and the patient
+was continued on sotalol , and monitored on telemetry without
+alarms.
+2. Pulmonary: The patient with shortness of breath increased
+over baseline and chest x-ray as described above. Secondary to
+the elevated BNP and increased lower extremity edema , the patient
+was diuresed as described above. The patient does use BiPAP at
+night for obstructive sleep apnea.
+3. Endocrine: The patient with diabetes on insulin sliding
+scale and a.m. NPH. No ace inhibitor was added secondary to the
+significantly elevated creatinine. The patient's NPH was
+increased to 10 units q.a.m. secondary to elevated sugars
+( resulting in more improved glycemic control ).
+4. Renal: The patient with chronic renal insufficiency with a
+baseline creatinine of approximately 4. This is likely secondary
+to several factors , including diabetes , effects of paraprotein
+associated with monoclonal gammopathy ( obesity ). The patient was
+continued on Phoslo , Calcitriol and Epogen. The patient also
+with increased hematuria , and this was discussed with urology.
+Previously extensive urological workup ( including cystoscopy ) was
+largely negative but were poor studies secondary to large
+habitus. Urology attending was not comfortable with aggressive
+intervention at this time , and thought hematuria was likely
+secondary to significant BPH ( and associated engorged veins ).
+The patient is status post Targis procedure as described above ,
+and hematuria secondary to recent Foley trauma from past
+admission. The patient to follow up with urology in the future.
+A urine cytology was obtained and is pending at this time.
+5. GI: The patient with elevated ammonia levels , with normal
+LFTs. This has also been worked up in the past according to the
+patient which resulted in no clear diagnosis. The patient is too
+obese for any abdominal imaging per CT. The patient does have a
+history of multiple myeloma which could be the source of elevated
+ammonia , versus a hepatic source. Ammonium level was 83. The
+patient had no asterixis and had normal mentation while inhouse.
+The patient's medication of Lactulose was continued.
+6. Heme: The patient with chronic anemia as described in the
+lab section. The patient did have an episode of epistaxis that
+subsequently resolved , and hematuria as described above , though
+also somewhat improved at time of discharge. Hematocrit was
+stable throughout this , and there was no need for transfusion.
+7. Oncology: The patient with a history of IgA monoclonal
+gammopathy status post Cytoxan therapy. The oncologist
+attending , Dr. Burrows , who knows the patient felt there was
+no need for additional chemo at this time. Previous Cytoxan
+therapy has not been significantly effective.
+8. Neuro: The patient also complaining of muscle weakness ,
+proximal muscles greater than distal muscles. A neurology
+consult was called , who felt that this was largely secondary to
+deconditioning and secondary to patient's multiple comorbidities ,
+this is not likely secondary to a myositis. No further workup
+was performed.
+PLAN TO DO: The patient to be discharged to rehabilitation for
+further care , physical therapy and medical management. The
+patient to follow up with Cardiology , PCP and Urology. Continue
+wound care dressing changes b.i.d.
+DISCHARGE CONDITION: Stable.
+DISCHARGE MEDICATIONS:
+1. Tylenol 325 p.o. q.6h p.r.n. pain.
+2. Aspirin 325 mg p.o. q.day.
+3. Calcitriol .75 mcg p.o. q.day.
+4. Colace 100 mg p.o. b.i.d.
+5. Doxepin 10 mg p.o. q.i.d.
+6. Lasix 80 mg p.o. b.i.d.
+7. NPH 10 units subq. q.a.m.
+8. Insulin sliding scale q.a.c. and h.s.
+9. Atrovent two puffs inhaled b.i.d.
+10. Lactulose 30 ml p.o. q.4h , instructions goal 4-5 soft bowel
+movements per day.
+11. Maalox 50 ml p.o. q.6h p.r.n. indigestion.
+12. Serax 10 mg p.o. q.h.s. p.r.n. insomnia.
+13. Oxycodone 5-10 mg p.o. q.6h p.r.n. pain.
+14. Afrin 2 sprays nasal b.i.d. p.r.n.
+15. Senna tablets 2 tablets p.o. b.i.d.
+16. Sodium bicarbonate 650 mg p.o. t.i.d.
+17. Zoloft 50 mg p.o. q.day.
+18. Proscar 5 mg p.o. q.day.
+19. Simvastatin 20 mg p.o. q.h.s.
+20. Sotalol 40 mg p.o. b.i.d.
+21. Toprol XL 100 mg p.o. q.day.
+22. Ambien 5 mg p.o. q.h.s. p.r.n. insomnia.
+23. Mirapex .5 mg p.o. t.i.d.
+24. Fluticasone nasal spray 1-2 sprays nasally q.day.
+eScription document: 6-9497829 DBSSten Tel
+Dictated By: APANA , AARON
+Attending: ILES , HARLEY
+Dictation ID 8282107
+D: 3/14/03
+T: 3/14/03
+[report_end]
+
+RECORD #2713
+980366409 | PNMC | 48893008 | | 786110 | 2/20/2000 12:00:00 AM | ABDOMINAL PAIN | Signed | DIS | Admission Date: 2/20/2000 Report Status: Signed
+Discharge Date: 11/25/2001
+CHIEF COMPLAINT: A 29-year-old G 3 P 2 admitted on postoperative
+day #19 , status post a STAT cesarean section at
+29 weeks for fetal bradycardia following laparoscopic
+cholecystectomy. She was readmitted for wound infection.
+HISTORY OF PRESENT ILLNESS: The patient's past medical history
+is significant for cardiac transplant
+in 1989 for a dilated cardiomyopathy. The patient is on multiple
+immunosuppressants. The patient had several episodes of acute
+cholecystitis and underwent laparoscopic cholecystectomy nineteen
+days prior to admission. Fetal bradycardia developed immediately
+following the cholecystectomy and a STAT cesarean section was
+performed. The patient was returned to the Cardiology Service for
+further management of fluid status and mild congestive heart failure.
+She was discharged on postoperative day #7. On 6/28 the patient
+was seen in the MFM practice and a wound hematoma on the left side was
+noted. It was and drained with normal , healthy tissue identified.
+She had b.i.d. dressing changes with a visiting nurse. On the day of
+admission the patient noted a temperature to 100.0 , slightly foul-smelling
+discharge from the wound. She denied abdominal pain. The patient
+also noted that the right foot pain present at the time of surgery
+had been worsening over the course of the day and was noted to be
+swollen and erythematous at the time of admission.
+PAST MEDICAL HISTORY: Viral cardiomyopathy , now status post
+transplant , hypertension , chronic renal
+insufficiency with a baseline creatinine of 1.4-1.8 ,
+hyperlipidemia , obesity , history of group A Strep sepsis in 1998.
+PAST SURGICAL HISTORY: Cesarean section x 2 in 1998 and 2001 ,
+laparoscopic cholecystectomy on 4/13 ,
+D&amp;E for SAb in 21 of June , status post eye surgery in 1973.
+MEDICATIONS: Imuran 75 mg p.o. b.i.d.; cyclosporin 125 mg p.o.
+q.d.; prednisone 10 mg p.o. q.d.; pravastatin 10 mg
+p.o. q. h.s.; quinidine sulfate 25 mg p.o. t.i.d.; Kaopectate 30
+mg p.o. q. i.d.; Zantac 150 mg p.o. b.i.d.; miconazole topical 2%
+p.r.n.; Tylenol #3 1-2 p.o. q. 4-6h p.r.n. pain.
+ALLERGIES: Sulfa , penicillin , IVP dye all cause pink rash ,
+succinylcholine resulted in respiratory arrest.
+PHYSICAL EXAMINATION ON ADMISSION: VITAL SIGNS: Temperature 98.6 ,
+blood pressure 120/60 ,
+respirations 18 , pulse 74. HEART: Regular rate and rhythm.
+LUNGS: Clear to auscultation bilaterally. ABDOMEN: Obese ,
+nontender , nondistended , incision was open at two sites. There was
+gray , malodorous fluid draining from the wound. The wound tracked
+superiorly on the left. The fascia was intact. There was no
+evidence of necrotic tissue. EXTREMITIES: Distal extremities had
+trace edema , right greater than left with erythema and tenderness
+on the dorsal surface of the right ankle.
+HOSPITAL COURSE: 1 ) Wound infection: An Infectious Disease
+consult was obtained at the time of admission and
+the patient was sent for immediate intraoperative treatment and
+wound debridement. Surgery was consulted intraoperatively to
+confirm healthy tissue and no evidence of necrosis. The patient
+was started on levofloxacin and clindamycin IV and t.i.d. dressing
+changes. Blood cultures obtained prior to antibiotic therapy were
+negative for bacteremia. Cultures of the wound were consistent
+with Strep and diphtheroids with obvious polymicrobial involvement.
+On hospital day #3 blood cultures which had been drawn from the
+patient's indwelling line returned with 2/4 bottles positive for
+gram-positive cocci in clusters. The central line was discontinued.
+The patient began treatment on vancomycin 1 gram IV q. 12h , levofloxacin
+was continued and the Flagyl was started 500 mg p.o. t.i.d. The
+patient remained afebrile throughout this time. A CT of the abdomen
+and pelvis was obtained per Infectious Disease recommendation and it
+confirmed that there was no intraabdominal abscess. The patient was
+continued on IV vancomycin with p.o. Flagyl and levofloxacin until
+8/21/01 , hospital day #8. At that point the patient was discharged to
+home with visiting nurse and continued IV and p.o. antibiotics x 14
+days. Cultures obtained following discontinuation of her central
+line returned as negative. On hospital day #6 the patient had
+a significant yeast infection surrounding the lower aspect of the
+incision as well as in the intertriginous areas. This was treated
+with topical nystatin.
+2 ) Cardiovascular: The patient's cardiac standpoint remained
+stable throughout the admission with no evidence of congestive
+heart failure. Routine echo was performed on 1/15/01 as scheduled
+per her transplant protocol. There were no other cardiovascular
+issues during the patient's admission.
+3 ) Renal: The patient had a baseline history of renal
+insufficiency as described above with a creatinine of 2.1 on
+admission. Creatinine increased during her admission to a maximum
+of 3.1. She was also noted to have decreasing urine output at that
+time. Adjustments were made in vancomycin and cyclosporin levels
+and the patient's creatinine slowly returned to baseline with
+significant improvement of urine output.
+4 ) GI: The patient had no difficulties with bowel function until
+hospital day #5 when patient was noting increasingly loose
+stools. C. diff. was obtained x 2 and were negative. She was
+treated with Imodium p.r.n.
+5 ) Rheumatology: The patient had initially right ankle pain and
+swelling noted at the time of admission. A Rheumatology consult
+was obtained and the joint was tapped and there was no evidence of
+infection at that time. The patient was continued to be followed
+by Rheumatology and , based on Rheumatology and Transplant Team
+recommendations , was treated with colchicine for the diagnosis of
+gout on immunosuppressant medications. The possibility of plantar
+fasciitis was raised during admission and treatment was pain
+medication , continued colchicine and physical therapy. The patient
+was able to ambulate at the time of discharge.
+DISCHARGE MEDICATIONS: Vancomycin 750 mg IV q. 12h; levofloxacin
+500 mg p.o. q.d.; Flagyl 500 mg p.o. t.i.d.
+x 14 days; Percocet 1-2 p.o. q. 3-4h p.r.n. pain.
+The patient had a visiting nurse established for continued b.i.d.
+dressing changes at home and to obtain vancomycin and cyclosporin
+levels as needed.
+FOLLOWUP: She will be followed by her cardiac transplant team to
+follow her antibiotic and immunosuppressant levels. She
+was scheduled for routine follow up with the cardiac transplant
+team with no changes in appointment time , follow up with OB/GYN in
+two weeks' time.
+Dictated By: RAMON ARAKAWA , M.D. VE84
+Attending: WARNER J. BURSTON , M.D. XB9
+SI930/7033
+Batch: 07948 Index No. ENABWR84SQ D: 7/24/01
+T: 6/2/01
+[report_end]
+
+RECORD #4212
+
+
+482875274 | AMC | 85469675 | | 4842750 | 11/6/2006 12:00:00 AM | morbid obesity | | DIS | Admission Date: 1/3/2006 Report Status:
+
+Discharge Date: 11/6/2006
+****** FINAL DISCHARGE ORDERS ******
+BOBLETT , TORY J 482-03-01-5
+I
+Service: GGI
+DISCHARGE PATIENT ON: 9/0/06 AT 09:00 AM
+CONTINGENT UPON Not Applicable
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: IMPERATORE , PETER C. , M.D.
+DISPOSITION: Home
+DISCHARGE MEDICATIONS:
+VOLTAREN ( DICLOFENAC SODIUM ) 75 MG PO BID PRN Pain
+Instructions: please crush Food/Drug Interaction Instruction
+Take with food
+Alert overridden: Override added on 9/0/06 by :
+SERIOUS INTERACTION: KETOROLAC TROMETHAMINE , INJ &amp;
+DICLOFENAC Reason for override: aware
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID
+Instructions: syrup
+AROMASIN ( EXEMESTANE ) 25 MG PO BEDTIME
+Starting IN AM ( 10/6 ) HOLD IF: NPO
+Instructions: crush before giving
+Number of Doses Required ( approximate ): 2
+HYDROCHLOROTHIAZIDE 25 MG PO DAILY
+Instructions: please crush
+ROXICET ORAL SOLUTION ( OXYCODONE+APAP LIQUID )
+5-10 MILLILITERS PO Q4H PRN Pain
+ZANTAC SYRUP ( RANITIDINE HCL SYRUP ) 150 MG PO BID
+ZOCOR ( SIMVASTATIN ) 20 MG PO BEDTIME
+Instructions: please crush Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+ACTIGALL ( URSODIOL ) 300 MG PO BID
+DIET: stage II gastric bypass
+ACTIVITY: Walking as tolerated
+FOLLOW UP APPOINTMENT( S ):
+Please call Dr. Ziebol immediately to schedule follow-up appointment ,
+Please see primary care doctor in 2-3 weeks for medication management ,
+ALLERGY: LEVOFLOXACIN
+ADMIT DIAGNOSIS:
+morbid obesity
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+morbid obesity
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+PMH HTN Hyperlipidemia Left breast cancer s/p lumpectomy , chemo , XRT
+Adenomatous polyp s/p excision Obstructive sleep apnea , uses CPAP Asthma
+GERD Hiatal hernia OA Gallstones Hepatic cyst Venous stasis LLE PSH
+Left breast lumpectomy , March 2005
+Left breast biopsy , left axillary LN biopsy , March 2005
+STSG venous stasis ulcer on LLE , May 2003
+Debridement left venous stasis ulcer , May 2003 Hysterectomy
+L knee tibial osteotomy Umbilical hernia repair Jaw surgery
+OPERATIONS AND PROCEDURES:
+laparoscopic roux-en-y gastric bypass
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE:
+Patient was admitted to the Foundtah Medical Center surgery service after undergoing
+LRYGB. No concerning intraoperative events occurred; please see dictated
+operative note for details. Patient was transferred to the floor from
+the PACU in stable condition. Patient had adequate pain control and no
+issues overnight into POD1. The patient had an UGI on POD1 and 2 that
+were
+negative for obstruction or leak but did not show contrast past the
+pouch. She did vommit POD 1 , but was able to tolerate the contrast on
+POD2. Her lack of empting thought secondary to edema at surgical site and
+it resolved by POD 3. The patient was then started on stage I gastric
+bypass diet and advanced the following day to a Stage II diet that was
+tolerated as well. JP draion removed POD 6. The remainder of the
+hospital course was relatively unremarkable , and the pateint was
+discharged in stable condition , ambulating and voiding independently , and
+with adequate pain control. At discharge the incision was C/D/I , with no
+evidence of hematoma collection or infection. The patient was given
+explicit instructions to follow-up in clinic with Dr. Jaffray in 1-2 weeks.
+ADDITIONAL COMMENTS: You may shower 2 days after surgery , but do not tub bathe , swim , soak , or
+scrub incision for 2 weeks. Bandage strips will fall off over time.
+Seek medical attention for fevers ( temp&gt;101.5 ) , worsening pain , drainage
+or excessive bleeding from incision , chest pain , shortness of breath , or
+any other symptoms of concern. Follow up with your surgeon in 1-2 weeks.
+Please do not drive or consume alcohol while taking pain medications.
+Resume home medications , but please note: zantac syrup is to replace
+nexium. Crush all medicines. ***Please note- START
+actigall in two weeks.
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+No dictated summary
+ENTERED BY: PUCKET , CHESTER C. , M.D. ( XU023 ) 9/0/06 @ 09:26 AM
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #4933
+501430298 | ITGH | 62213723 | | 2384738 | 5/11/2003 12:00:00 AM | bronchitis | | DIS | Admission Date: 4/10/2003 Report Status:
+Discharge Date: 4/14/2003
+****** DISCHARGE ORDERS ******
+DANSBY , ABEL 085-79-98-5
+OH
+Service: MED
+DISCHARGE PATIENT ON: 5/22/03 AT 03:00 PM
+CONTINGENT UPON HO evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: BONIELLO , DOUGLASS , M.D.
+CODE STATUS:
+Full code
+DISPOSITION: Home w/ services
+DISCHARGE MEDICATIONS:
+ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD
+Alert overridden: Override added on 4/12/03 by
+KRULISH , DARIUS , M.D.
+DEFINITE ALLERGY ( OR SENSITIVITY ) to G6PD DEFICIENCY
+DEFINITE ALLERGY ( OR SENSITIVITY ) to G6PD DEFICIENCY
+DEFINITE ALLERGY ( OR SENSITIVITY ) to NSAID'S
+DEFINITE ALLERGY ( OR SENSITIVITY ) to SALICYLATES
+DEFINITE ALLERGY ( OR SENSITIVITY ) to G6PD DEFICIENCY
+Reason for override: awware takes at home
+LASIX ( FUROSEMIDE ) 80 MG PO BID
+HOLD IF: sbp &lt; 90 and call ho
+Alert overridden: Override added on 4/12/03 by
+COCCIA , RENE , M.D.
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+Reason for override: aware has tol Previous Alert overridden
+Override added on 4/12/03 by TOTA , ENOCH , M.D.
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+Reason for override: tolerates at home
+ROBITUSSIN ( GUAIFENESIN ) 10 MILLILITERS PO Q4H PRN cough
+NIFEREX-150 150 MG PO QD
+NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL q5min x 3
+PRN chest pain HOLD IF: SBP &lt; 100
+VITAMIN B 6 ( PYRIDOXINE HCL ) 100 MG PO QD
+MVI THERAPEUTIC ( THERAPEUTIC MULTIVITAMINS ) 1 TAB PO QD
+Alert overridden: Override added on 4/12/03 by
+LAFANTANO , GRAHAM , M.D.
+POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN &amp; NIACIN ,
+VIT. B-3 Reason for override: tol at home
+ZOCOR ( SIMVASTATIN ) 20 MG PO QHS
+Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+Override Notice: Override added on 4/12/03 by
+DEMORANVILLE , NESTOR , M.D.
+on order for MVI THERAPEUTIC PO ( ref # 43296487 )
+POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN &amp; NIACIN ,
+VIT. B-3 Reason for override: tol at home
+TOPROL XL ( METOPROLOL ( SUST. REL. ) ) 100 MG PO QD
+HOLD IF: sbp &lt; 100 , hr &lt;55 and call ho
+Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+Number of Doses Required ( approximate ): 5
+IMDUR ( ISOSORBIDE MONONIT.( SR ) ) 30 MG PO BID
+HOLD IF: sbp &lt; 100 and call ho
+Food/Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after
+food )
+DIOVAN ( VALSARTAN ) 160 MG PO QD
+HOLD IF: sbp &lt; 100 and call ho
+Number of Doses Required ( approximate ): 5
+ALLEGRA ( FEXOFENADINE HCL ) 180 MG PO QD
+Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+POTASSIUM CHLORIDE SUSTAINED RELEASE 10 MEQ PO QD
+Ingredients contain 10 MEQ KCL QD
+COMBIVENT ( IPRATROPIUM AND ALBUTEROL SULFATE )
+2 PUFF INH QID
+ADVAIR DISKUS 500/50 ( FLUTICASONE PROPIONATE/... )
+1 PUFF INH BID
+LANTUS ( INSULIN GLARGINE ) 60 UNITS SC QD
+Starting Today ( 8/21 )
+Instructions: please check your fingerstick glucose prior
+to meals and bedtime.
+METAMUCIL ( PSYLLIUM ) 1 TSP PO QD
+PROTONIX ( PANTOPRAZOLE ) 40 MG PO QD
+HUMALOG ( INSULIN LISPRO ) SC
+HUMALOG ( INSULIN LISPRO ) 6 UNITS SC QAM
+Instructions: and use humalog as your sliding scale as you
+have been doing at home
+ZAROXOLYN ( METOLAZONE ) 2.5 MG PO QD
+Alert overridden: Override added on 6/18/03 by :
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to SULFA
+Reason for override: aware takes at home
+VIT C ( ASCORBIC ACID ) 500 MG PO QD
+VIT E ( TOCOPHEROL-DL-ALPHA ) 400 UNITS PO QD
+AZITHROMYCIN 250 MG PO QD X 4 Days
+Food/Drug Interaction Instruction Avoid antacids
+Take with food
+Alert overridden: Override added on 5/22/03 by :
+POTENTIALLY SERIOUS INTERACTION: SIMVASTATIN &amp; AZITHROMYCIN
+Reason for override: aware
+DIET: House / 2 gm Na / ADA 2000 cals/day / Low saturated fat
+low cholesterol
+ACTIVITY: Walking as tolerated
+FOLLOW UP APPOINTMENT( S ):
+Dr. Munford , your primary care doctor , AH 001 177 2694 , call for an appointment for within 2 weeks of discharge ,
+Radiology ( mammogram ) January , 9:15 am scheduled ,
+ALLERGY: Percocet , Reglan ( metoclopramide hcl ) ,
+Gantrisin ( sulfisoxazole ) , Cephalosporins , G6pd deficiency ,
+Lidocaine ( antihistamines ) , Iv contrast dyes , Aspirin , Codeine ,
+Neggram ( nalidixic acid ) , Lestrill , Keflex , Sulfa , Penicillins ,
+Flagyl , Lidocaine , Codeine
+ADMIT DIAGNOSIS:
+chf
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+bronchitis
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+Asthma HTN RAD G6PD DEF ?H/O CHF IDDM
+h/o ischemic colitis Arthritis DJD Allergic rhinitis Glaucoma
+Bursitis S/P appy , TAH , Zenker's divertic removal
+hx dvt 1988 obstructive sleep apnea
+OPERATIONS AND PROCEDURES:
+none
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE:
+75F w/ CHF 2/2 diasystolic dysfxn , possible asthma , HTN , DM , CAD , p/w
+wheeze/dyspnea &amp; SSCP &amp; diarrhea , likely w/ mild vol. overload &amp;
+bronchitis , hemodyn. stable , 10/22 &amp; 8/7 on room air , ambulating
+without issue , symptomatically much improved , to followup as outpt for
+further management of her CHF and baseline restrictive lung disease.
+HPI:
+-see problem list for past med hx ( extensive ) -pt last seen
+ESMC 1/28 ( 3 days PTA ) w/ substernal chest pressure ( SSCP ) &amp; sob , w/
+diffuse wheezes , RA sat 100%-&gt; nebs , Po pred , d/c from obs w/ in
+24 hrs w/ short pred taper. Over next 3
+days , breathing got worse , developed cough ( + ) yellow
+sputum , no FEVER , ( + ) diarrhea ( watery , no blood , c/w chronic colitis
+diarrhea ) &amp; polyuria , &amp; chest pressure worse w/ cough better w/ SLNTG.
+Pt also has had increasing LE edema , recently
+had lasix dose increased by CHF nurse. On DOA ,
+per VNA- BS in 200s , BP 134/60 ( baseline sbp 100s ) ,
+wt 5 lb decrease 1 night ( 218-&gt; 213 ) so sent pt
+to ED. VS T 98.6 HR 92 BP 120/53 RA 96%; ( + )
+diffuse wheezes &amp; rhonchi-&gt; alb neb , 40 mg iv lasix ,
+6u reg. insulin 4 glc 336. EKG &amp; Cxray w/ no
+new significant changes
+PROBLEM LIST:
+( 1 ) PULM- per pulm eval as outpt , including PFTs , no
+asthma , likely CHF causing wheezes &amp; pt got no benefit from steroids
+( a ) d/c steroids 2/29 ( b ) continued outpt advair , combivent , prn nebs
+( c ) chest pt bid ( d ) cpap qhs as per home ( e ) 2/29 diuresis ( 2.5
+L neg ) ( f ) 10/22 o2 sat 95% RA , w/ her usual baseline wheezes on exam
+( g ) may need high resolution chest ct as outpt to evaluate lung
+parenchyma to explain baseline wheezes
+( 2 ) CV: ( i ) ischemia-( a ) ruled out for MI by cardiac enzymes , no ekg
+changes. ( b ) cont cardiac meds ( asa , statin , bb , nitrates ) and no
+further ischemic issues during this admit. ( ii ) pump- 2/29 jvp hard to
+assess 2/2 neck obesity but euvol to mildly wet ( a ) 10/22 goal i&lt;0 1-2
+L , met goal ( 2.5L ) -&gt; 10/22 nearly orthostatic ( lying sbp 100 , hr 95-&gt;
+standing sbp 110 , hr 112 )-&gt; change to home PO lasix ( 80 po bid ) w/ prn
+iv as needed for I=O or slightly neg 500 cc.
+( b ) cardiac diet , fluid restriction. Pt being discharged near
+euvolemia on po lasix for f/u of weights , electrolytes , and lasix
+titration per CHF clinic/nurse as outpt.
+( iii ) rhythm: tele until r/o'd , NSR without further issues
+3 ) RENAL: cr at baseline 2/29 2.1 ( a ) f/u cr s/p diuresis 10/22 stable
+2.0 ( b ) replete lytes prn as no scales , final CR 2.2
+( 4 ) GI-protonix , bowel regimen ( b ) if diarrhea , cx and send stool
+leuks however on 10/22 formed BMs with no further issues
+( 5 ) ENDO- 2/29 tsh 0.097 - levoxyl DC'd , recommend f/u as o/p to
+determine TSH levels of thyroid replacement.
+b ) Diabetes - Her Lantus was increased to 60 U qd due to persistent
+hyperglycemia even off steroids. Her fingerstick glucoses ranged in
+the mid 200s to lower 300s prior to the increase. Her glucose
+control should continue to be monitored as an outpatient.
+( 6 ) HEME-cont fe &amp; guaiac stools 10/22 hct stable , 33.4 ( 7 ) FULL code
+for this admission
+( 8 ) Health maintenance - mammogram rescheduled for January at 9:15 am.
+( 9 ) ID - Azithromycin Z-Pack started 8/7 for probable sinusitis.
+Multiple U/A's this admission , all normal or contaminated/poor
+specimen. Final repeat pending ( sent for LGF ).
+ADDITIONAL COMMENTS: Call your doctor or return to ED if any of your symptoms , such as
+cough , wheeze , shortness of breath , dizziness , falling , diarrhea , chest
+pain , return , worsen or change in any way concerning to you. ( 2 ) Take
+your medications and see your doctor as instructed above; note that
+levoxyl has been discontinued.
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+( 1 ) Follow for resolution of sinusitis , bronchitis. ( 2 ) F/u volume
+status , daily wts on current lasix dose , adjust as needed. ( 3 ) F/u
+electrolytes with lasix diuresis as outpt. ( 4 ) consider high resolution
+CT scan of chest to eval. lung parenchyma re: chronic wheezes. ( 5 )
+Repeat TSH , as levoxy was d/c while here. ( 6 ) TO VNA-
+Assess o2 sats , volume status , orthostatics , blood sugars , home safety ,
+PO intake , bowel movements , and medication compliance. ( 7 ) pt may benefit
+from home physical therapy
+No dictated summary
+ENTERED BY: LOZITO , NATHANIAL NESTOR , M.D. -HEME ONC ( CJ95 ) 5/22/03 @ 01
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #54065
+470996876 | MRH | 07364228 | | 7421201 | 5/12/2004 12:00:00 AM | Dementia | | DIS | Admission Date: 4/20/2004 Report Status:
+Discharge Date: 2/24/2004
+****** DISCHARGE ORDERS ******
+DUNNEGAN , RAMON 151-15-38-0
+Lak Dr. , Chconbi Mont Burg , Colorado 03481 Room: Taman Xiho Will Lane
+Service: NEU
+DISCHARGE PATIENT ON: 9/2/04 AT 03:00 PM
+CONTINGENT UPON HO evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: BADAL , BRET JAKE , M.D.
+DISPOSITION: Home w/ services
+DISCHARGE MEDICATIONS:
+GLUCOTROL ( GLIPIZIDE ) 10 MG PO BID HOLD IF: BS&lt; 100
+PRAVASTATIN 40 MG PO QHS
+Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+TOPROL XL ( METOPROLOL ( SUST. REL. ) ) 50 MG PO QD
+Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+Number of Doses Required ( approximate ): 5
+ALTACE ( RAMIPRIL ) 5 MG PO QD
+ARICEPT ( DONEPEZIL HCL ) 5 MG PO QD
+Number of Doses Required ( approximate ): 5
+SEROQUEL ( QUETIAPINE ) 25 MG PO QHS
+Number of Doses Required ( approximate ): 1
+NEXIUM ( ESOMEPRAZOLE ) 20 MG PO QD
+DIET: House / ADA 1800 cals/dy
+ACTIVITY: Resume regular exercise
+FOLLOW UP APPOINTMENT( S ):
+Dr. Cortez Vroom May at 1:40pm scheduled ,
+ALLERGY: Penicillins
+ADMIT DIAGNOSIS:
+Dementia
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+Dementia
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+cad ( coronary artery disease ) hx mi ( H/O myocardial infarction ) hx
+chf ( H/O congestive heart failure ) hx cva ( H/O cerebrovascular
+accident ) reflux ( gastroesophageal reflux disease ) s/p L nephrectomy
+( S/P nephrectomy ) ? meningioma on scan ( ?
+meningioma ) gallstones ( gallstones )
+OPERATIONS AND PROCEDURES:
+MRI brain
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE:
+Patient is a 80 y/o female with hx of CAD , DM , HTN , left PICA stroke
+who presented to the ED after a fall. SHe was admitted after being
+found to be demented and unclear if this was a new or old diagnosis.
+Basic labs for dementia were sent including TSH , B12 , folate which were
+normal. MRI revealed a mennigioma and old PICA infarct. LIkely
+diagnosis is Alzheimer's Disease. She was started on Aricept and
+Seroquel. PT/OT evaluated her and felt that she was safe to be d/c home
+with services. SW was consulted to arrange for this. Her family was
+contacted and expressed concern for her safety at home. Patient was
+resistent to home care and did not feel that she needs any help in the
+home. Psychiatry was consulted to determine if she has the capacity to
+make decisions regarding her care. They did feel that she has
+diminished capacity but felt that she would be safe to return to her
+home. She was d/c home with services.
+ADDITIONAL COMMENTS:
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+No dictated summary
+ENTERED BY: HERVOL , OSWALDO RASHAD , M.D. ( PN20 ) 9/2/04 @ 11
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #54677
+
+
+539678711 | NHVMC | 82083819 | | 9967821 | 4/30/2005 12:00:00 AM | ? cardiac chest pain , new lbbb , s/p clean cath | | DIS | Admission Date: 1/13/2005 Report Status:
+
+Discharge Date: 7/6/2005
+****** DISCHARGE ORDERS ******
+VOLMAR , TORY 682-76-29-8
+Tuclos Peake Brown
+Service: CAR
+DISCHARGE PATIENT ON: 8/0/05 AT 04:00 PM
+CONTINGENT UPON Attending evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: MCCLINSEY , HOBERT L. , M.D.
+CODE STATUS:
+Full code
+DISPOSITION: Home
+DISCHARGE MEDICATIONS:
+ACETYLSALICYLIC ACID 81 MG PO QD Starting Today July
+LEVOXYL ( LEVOTHYROXINE SODIUM ) 175 MCG PO QD
+LISINOPRIL 20 MG PO QD HOLD IF: sbp &lt; 100
+Override Notice: Override added on 1/1/05 by LEMEN , PALMER D AMBROSE , M.D.
+on order for POTASSIUM CHLORIDE IV ( ref # 41556193 )
+POTENTIALLY SERIOUS INTERACTION: LISINOPRIL &amp; POTASSIUM
+CHLORIDE Reason for override: noted
+Previous override information:
+Override added on 1/1/05 by COELLO , ANTONIA DAVIS , M.D.
+on order for KCL IMMEDIATE RELEASE PO ( ref # 84210284 )
+POTENTIALLY SERIOUS INTERACTION: LISINOPRIL &amp; POTASSIUM
+CHLORIDE Reason for override: awaere
+LIPITOR ( ATORVASTATIN ) 20 MG PO QD
+Starting Today July
+TOPROL XL ( METOPROLOL SUCCINATE EXTENDED RELEASE )
+25 MG PO QD Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+DIET: House / Low chol/low sat. fat
+ACTIVITY: Walking as tolerated
+FOLLOW UP APPOINTMENT( S ):
+Primary care physician 1 week ,
+Dr. Lindsay Mooe 4-6 weeks ,
+ALLERGY: NKA
+ADMIT DIAGNOSIS:
+unstable angina
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+? cardiac chest pain , new lbbb , s/p clean cath
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+Hypothyroidism , hypertension , high cholesterol , glaucoma , GERD
+OPERATIONS AND PROCEDURES:
+Cardiac catheterization , 1/29/05
+2D Echocardiography , 3/5/05
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+None
+BRIEF RESUME OF HOSPITAL COURSE:
+CC: Chest Pain
+HPI: 69 w , hx lipids , htn , obestiy admitted with 2 months progressive
+doe , exertional sscp , worse x 2 days.
+No resting cp. Presented to tcsh , new lbbb compared to 2 months ago.
+Heparinized , transferred here for cath. Afeb , vss here.Currently cp
+free. heparinized , plavix load given. Taken to cath on
+1/29/05 . RESULTS HERE: CLEAN CORONARIES.
+PE on admit: VS: afebrile , P 107 , BP 156/91 , O2 99% RA.
+Appeared euvolemic to mildly overloaded on exam ( although difficult to
+discern 2/2 obesity ).
+Lungs CTAB , CV: RRR , No M , G , R
+Labs on admit: K 3.4 , Ca 8.4 , WBC 11.71 , Hgb
+12.8 , Hct 38.2 , BUN 12 , Cr 0.8 , INR 1.0 , CK 61-&gt;226-&gt;305 ,
+CK-MB 1.0 -&gt;6.2-&gt;5.7 , TN-I below assay x 3 , BNP 161.
+CXR:Mildly tortuous aorta , otherwise nml
+EKG:LBBB , rate at 100. New as compared to August 2005.
+***************Hospital Course**************
+CV: ISCHEMIA: ASA , beta blocker , statin. Cont ACEI. Lipid panel w/ HDL
+34 , LDL 113 , serial enzymes as noted , on tele. CXR and EKG done. Cath on
+9/4 was clean. Echo post cath w/ normal biventricular systolic and
+dialostic function.
+PUMP: Holding hctz. Appears euvolemic. Cont ACEI and BB.
+RHYTHM: new lbbb , likely represents recent but probably not current
+ischemic event. Kept on tele.
+ENDO: H/o hyopthyroidism , TSH 0.435 , cont levoxyl.
+ID: UA pre cath.
+FULL
+ADDITIONAL COMMENTS:
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+No dictated summary
+ENTERED BY: CARHART , ZACK G. , M.D. , M.S.C. ( PC81 ) 8/0/05 @ 02:39 PM
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #55056
+
+
+447820941 | TSH | 87152485 | | 102781 | 1/10/2001 12:00:00 AM | NSTE MI , refused cath treated medically with lovenox/integrilin | | DIS | Admission Date: 1/10/2001 Report Status:
+
+Discharge Date: 7/4/2001
+****** DISCHARGE ORDERS ******
+BIGLER , MANUEL 637-16-52-7
+Ca Parkway , Ale Ph Por , Mississippi 02896
+Service: CAR
+DISCHARGE PATIENT ON: 7/18/01 AT 12:00 PM
+CONTINGENT UPON Not Applicable
+WILL D/C ORDER BE USED AS THE D/C SUMMARY: YES
+Attending: SPANIER , DOUGLAS MOSE , M.D. , PH.D.
+DISPOSITION: Home
+DISCHARGE MEDICATIONS:
+ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD
+MICRONASE ( GLYBURIDE ) 5 MG PO QD
+HCTZ ( HYDROCHLOROTHIAZIDE ) 25 MG PO QD
+NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL q5min x 3
+PRN chest pain HOLD IF: SBP &lt; 100
+ZOCOR ( SIMVASTATIN ) 20 MG PO QHS
+Food/Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise.
+LEVOFLOXACIN 250 MG PO QD X 4 Days
+Starting Today ( 10/16 ) Food/Drug Interaction Instruction
+If on tube feeds , please cycle ( hold 1 hr before to 2 hr
+after ) Take 2 hours before or 2 hours after dairy products.
+ZESTRIL ( LISINOPRIL ) 20 MG PO QD
+Alert overridden: Override added on 2/18/01 by :
+POTENTIALLY SERIOUS INTERACTION: POTASSIUM CHLORIDE &amp;
+LISINOPRIL
+POTENTIALLY SERIOUS INTERACTION: POTASSIUM CHLORIDE &amp;
+LISINOPRIL Reason for override: ok
+ATENOLOL 50 MG PO QD Food/Drug Interaction Instruction
+Take consistently with meals or on empty stomach.
+PRILOSEC ( OMEPRAZOLE ) 20 MG PO QD
+Alert overridden: Override added on 2/18/01 by :
+POTENTIALLY SERIOUS INTERACTION: HYDROCHLOROTHIAZIDE &amp;
+OMEPRAZOLE
+POTENTIALLY SERIOUS INTERACTION: HYDROCHLOROTHIAZIDE &amp;
+OMEPRAZOLE Reason for override: ok
+RETURN TO WORK: Not Applicable
+FOLLOW UP APPOINTMENT( S ):
+Dr. Truman Thro 1-2 wks ,
+Dr. Stevie Gilani , cardiology , Mon , 1/2/02 1:00 pm , Bock 0/12/02 ,
+No Known Allergies
+ADMIT DIAGNOSIS:
+chest pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;Responsible After Study for Causing Admission )
+NSTE MI , refused cath treated medically with lovenox/integrilin
+OTHER DIAGNOSIS;Conditions , Infections , Complications , affecting Treatment/Stay
+LGIB TOBACCO PAF-no anticoag for distant h/o lgi bleed htn dm hyperchol
+periph neuropathy h pylori
+OPERATIONS AND PROCEDURES:
+OTHER TREATMENTS/PROCEDURES ( NOT IN O.R. )
+medical treatment of NSTE MI: lovenox/integrilin ( pt. refused cath )
+BRIEF RESUME OF HOSPITAL COURSE:
+70 yo woman with no known CAD , cardiac RF: HTN ,
+DM , hyperchol. , current tob , H/O PAF on no anticoag 2/2 distant h/o
+LGIB , a/w palpitations followed by 10 hrs of chest
+tightness. Pt. at baseline able to do 1-2 flights of
+stairs before SOB. No sx of CHF. Pt. in her USOH ,
+eating potato chips at home , when she had
+palpitations for a couple of minutes , +LH , felt weak , SOB ,
+then had tightness in chest which she has never
+had before with her palpitations. Palp. resolved ,
+but CP lingered through night 5/10. SSCP
+"squeezing" , also in back , and L arm. ?relief with burping.
+Pt. last had tachyarrhythmia 2 yrs ago and has
+had none since. IN ED , pt. pain releived with
+SLNG , and 2" NTP. EKG with TWflattening v5-6 but no
+ST elevations , and CK160 , TnI 0.3. Pt. started
+on heparin , integrelin for NSTE MI , and cont. on
+ASA , BB , ACEI , statin. Exam notable for VSS , no
+JVD , distant heart sounds I-II/VI SEM at USB , nl
+S2 , clear lungs , neuro intact. Of note , in past ,
+pt. has refused multiple medical procedures
+( mammos , colonoscopy , EP study ) , and at this point ,
+does not want to have a cardiac cath. Admit to
+Coness- Ther Hospital for further management/potential cath if
+she changes
+mind. 1. Cardiac--acute NSTE MI vs. demand-induced
+NSTE MI from tachyarrythmia. Cont. ASA ,
+BB , ACEinh , statin , heparin , integrilin. Was
+discussed many times w/ pt. by different staff benefits
+and info about cath , but pt. deciced on medical rx.
+Pt. switched from heparin to lovenox/integrilin for proven benefits if
+noninvasive managmemetn. for total of 72 hr course integ/hep
+( finished Wed , monitor until Thurs ). Titrating BP meds for better
+control ( 130-160 )--because HR has been in 50's , added HCTZ for BP
+control . PUMP: repeat echo ( last one '88 )
+for change in fxn: prelim: mild hypokinesis in
+lat. wall , awaiting final
+report. RATE/RHYTHM: cardiac telemetry , HR's tend to
+be low 50's in AM asymptomatic , cont. regimen. First time she has had
+palpitations in 2 yrs , will need f/u of this issue--no arrythmias in ho
+use.
+2. Endo: DM II--CZI ss , cont. micronase.
+3. GI: nexium , colace.
+4. ID: pt. with UTI--rx. levoflox x 7 days.
+4. DVT proph: on lovenox.
+5. code status: FULL
+6. Dispo: PT eval , discharge Thursday when 72 hr course
+lovenox/integrilin complete for rx. NSTE MI. Pt. in stable condition a
+nd will d/c on new meds: HCTZ , nexium ( LGIB history ) , SLNG prn ,
+levoflox x 4 more days. Pt. f/u with Dr. Ezequiel Drzewicki in 1-2 wks ,
+and with a new cardiologist in 2-4 wks.
+ADDITIONAL COMMENTS: You have had a heart attack and because you did not want to have a
+cardiac catheterization to fix any blockages that may be in your heart
+arteries supplying your heart , we have treated you with medicines. Your
+blood pressure was high in the hospital , so we've started you on a
+medicine HCTZ , and also an antibiotic , levofloxacin , for a urinary
+tract infection which you should take for 4 more days. See Dr.
+Garhart in 1-2 wks , and a cardiologist in 2-4 wks. Call if you have
+more chest pain , shortness of breath , palpitations.
+DISCHARGE CONDITION: Stable
+TO DO/PLAN:
+No dictated summary
+ENTERED BY: ANAYA , EDUARDO SAMMIE , M.D. ( NV48 ) 7/18/01 @ 11:46 AM
+****** END OF DISCHARGE ORDERS ******
+[report_end]
+
+RECORD #55165
+
+
+488784699 | MMC | 66080042 | | 8302914 | 3/3/2007 12:00:00 AM | ATRIAL FIBRILLATION , ?ENDOCARDITIS | Signed | DIS | Admission Date: 5/20/2007 Report Status: Signed
+
+Discharge Date: 7/20/2007
+ATTENDING: SALAZAN , SHELDON M.D.
+SERVICE: Clare'squette Hospital . 
+PRINCIPAL DIAGNOSIS: Bacteremia , endocarditis.
+OTHER PROBLEMS AND DIAGNOSES:
+1. Status post aortic valve repair.
+2. Hypertension.
+3. Hyperlipidemia.
+4. Coronary artery disease status post CABG.
+5. CHF.
+6. Anemia.
+7. Status post hemorrhagic stroke.
+8. BPH status post pubic catheter placement.
+BRIEF HISTORY OF PRESENT ILLNESS: This is an 82-year-old male
+with history of multiple medical problems including recent aortic
+valve replacement for aortic stenosis on 0/8 , CAD status
+post CABG , CHF , atrial fibrillation with slow ventricular
+response , insulin-dependent diabetes who presents from rehab with
+positive blood cultures. The patient had been in rehabilitation
+following a Burgworth-hend Medical Center admission when he spiked a
+temperature two days prior to admission and was found to have
+blood cultures growing out gram positive cocci. He was also
+found to have a positive urinalysis at rehab. The patient was
+treated with two doses of ciprofloxacin for positive UA and
+admitted to Kootema General Hospital for positive blood cultures and concern
+for endocarditis given his recent aortic valve repair.
+On review of systems , the patient denies chest pain , shortness of
+breath , cough , URI symptoms , rash , nausea , vomiting , diarrhea ,
+abdominal pain , dysuria , palpitations , fevers , sweats or chills
+and overall reports feeling well.
+PAST MEDICAL HISTORY:
+1. Status post aortic valve replacement in 0/24 . 
+2. Hypertension.
+3. Hyperlipidemia.
+4. CAD status post CABG.
+5. CHF.
+6. Atrial fibrillation with slow ventricular response.
+7. Insulin dependent diabetes mellitus.
+8. Anemia.
+9. Status post hemorrhagic stroke.
+10. BPH status post suprapubic catheter placement during AVR
+surgery in 0/24 . 
+MEDICATIONS:
+1. Albuterol nebulizers 2.5 mg q.12 h.
+2. Aspirin 325 mg once daily.
+3. Sarna.
+4. Ciprofloxacin 250 mg b.i.d. The patient received two doses
+prior to admission.
+5. Colace 100 mg b.i.d.
+6. Fluticasone one spray in each nostril b.i.d.
+7. Lasix 80 mg q.a.m.
+8. Flovent two puffs b.i.d.
+9. Subcutaneous heparin 5000 units three times daily.
+10. Lispro sliding scale.
+11. Lantus 32 units nightly.
+12. Simvastatin 30 mg once daily.
+13. Albuterol nebulizers as needed for shortness of breath and
+wheezing.
+14. Tylenol as needed.
+15. Senna two tablets p.o. b.i.d.
+16. Losartan 50 mg once daily.
+17. Multivitamin once daily.
+18. Iron 150 mg b.i.d.
+19. Potassium chloride 40 mEq b.i.d.
+20. Protonix 40 mg q.12 h.
+21. Maalox as needed.
+22. Dulcolax as needed.
+23. Benadryl as needed.
+24. MiraLax as needed.
+ALLERGIES:
+1. Sulfa ( swelling ).
+2. Tetracycline ( swelling ).
+SOCIAL HISTORY: The patient has a remote tobacco history. He
+has a 40-pack-year history , quit 40 years ago. The patient uses
+a walker and wheelchair at baseline.
+BRIEF PHYSICAL EXAMINATION AT THE TIME OF ADMISSION: Vital
+signs: Temperature 98.5 , heart rate 49 , blood pressure 160/56 ,
+respiratory rate 18 , oxygen saturation 99% on room air , weight
+94.3 kg. General appearance: The patient is in no acute
+distress at present. HEENT: Oropharynx is clear. There is no
+palatal petechiae. Pupils are equally round and reactive to
+light and accommodation. There is no scleral icterus present.
+Neck: Supple. There is no lymphadenopathy or masses present.
+Cardiovascular: Rate is irregularly irregular. It is
+bradycardic. There is a 2/6 systolic ejection murmur at the
+right upper sternal border that is heard throughout. Jugular
+venous pressure is distended and can be seen at the level of the
+ear. Respiratory: There are bilateral basilar crackles.
+Abdomen: Obese. There are positive bowel sounds. Abdomen is
+soft , nondistended and nontender. No rebound tenderness or
+guarding. Skin: There is no stigmata of endocarditis. There
+are no splinter hemorrhages. No Osler nodes or red spots. There
+is 1+ pitting edema of the bilateral lower extremities. There
+are 1+ distal pulses in the upper and lower extremities
+bilaterally. Neuro: The patient is alert and oriented x3 and
+exam was nonfocal.
+LABORATORY DATA: At the time of admission , sodium 144 , potassium
+4.5 , chloride 106 , bicarb 30 , BUN 41 , creatinine 1.9 , glucose 83 ,
+anion gap is 8. White blood cell count of 8.1 , hematocrit 31.7 ,
+platelets 332 , 000. There are 71% neutrophils , 14% lymphocytes
+and 12% monocytes. Calcium is 8.7. Urinalysis shows trace
+blood , 3+ leukocyte esterase. 40-50 white blood cells , 1-5 red
+blood cells , trace bacteria.
+STUDIES AT THE TIME OF ADMISSION.
+1. Chest x-ray shows status post midline sternotomy and CABG.
+There is moderate enlargement of the cardiac silhouette , which is
+unchanged from prior x-rays. Right lung is clear. There is a
+small left posterior pleural effusion , which has been reduced in
+size compared to his previous x-ray dated 7/11/07 . 
+2. EKG revealed an irregularly irregular rhythm with atrial
+fibrillation with a rate of 44. There is left axis deviation , a
+right bundle-branch block and Q waves in II , III and aVF , which
+is unchanged from an EKG in 0/17 . 
+HOSPITAL COURSE BY PROBLEM: This is an 82-year-old gentleman
+with a history of multiple medical problems most significantly
+including recent aortic valve replacement for aortic stenosis , CAD
+status post CABG , CHF , atrial fibrillation with a slow
+ventricular response who was transferred from rehabilitation with
+a fever , positive urinalysis and positive blood cultures with
+concerns for endocarditis given his recent AVR. The patient was
+initially started on ceftazidime and vancomycin empirically.
+Blood cultures were obtained and the patient grew out
+two out of two bottles of Gemella morbillorum from his blood.
+Urinary cultures were also obtained , which revealed 10 , 000
+colonies of Pseudomonas aeruginosa. Cultures were also taken
+from the suprapubic catheter wound site and revealed rare MRSA ,
+few coag-negative staph and rare enterococci. Once blood
+cultures for Gemella morbillorum returned , the patient's
+antibiotics were changed to gentamicin and ceftriaxone on
+5/8/07 .  Ceftazidime was discontinued as was vancomycin. The
+patient remained afebrile while inhouse and did not exhibit any
+significant leukocytosis or stigmata of endocarditis.
+Surveillance cultures obtained after starting antibiotics have
+remained negative to date. A TTE was obtained and was negative
+for any valvular vegetation. However , given the patient's high
+risk for endocarditis , a TEE was obtained , which was also
+negative for any ring abscess or valvular vegetation. The
+patient , however , will be treated for endocarditis given his high
+risk.
+1. Cardiovascular:
+Ischemia: The patient had no chest pain , chest tenderness or
+chest discomfort. He does have a history CAD status post CABG
+and was continued on his full strength aspirin. He was also
+continued on statin.
+Pump: The patient was volume overloaded at the time of admission
+and was treated with 60 mg of IV Lasix. Following this , he
+appeared euvolemic and Lasix was held for several days and then
+gradually became volume overload and was again given 60 mg of IV
+Lasix and then restarted on his home dose of 80 mg p.o. QAM. At the
+time of discharge , the patient is slightly volume overloaded , but
+diuresing well with 80 mg daily. The patient's Losartan was held
+in the setting of his chronic renal insufficiency and initiation
+of gentamicin therapy. At the time of discharge , his weight is
+96.6 kg. His I/O goal at time of d/c is 500cc negative daily. He should
+continue daily weights. Of note , the patient's dry weight is
+approximately 93 kg. Pt's lasix should be titrated as he reaches his dry weight.
+Rhythm: The patient is bradycardic at baseline down into the
+mid-to-low 30s , is asymptomatic and has in the past refused
+permanent pacemaker placement. All nodal agents should be
+avoided for this reason. The patient did have several runs of
+nonsustained ventricular tachycardia upto 14 beats. Electrolytes
+were checked twice daily to keep magnesium above 2 and potassium
+above 4. However , no other medical management was initiated
+given his bradycardia.
+2. Infectious Disease: As noted above , there was high suspicion
+for endocarditis in this with a recent AVR. He was found to have
+Gemella morbillorum in his blood and was started as noted above
+empirically on vancomycin and ceftazidime and then changed to
+gentamicin and ceftriaxone on 5/8/07 once gram-positive cocci
+were speciated. The patient was initially treated for
+pseudomonal UTI with five days of ceftazidime , but given that
+only 10000 CFUs grew out , it was decided that ceftazidime
+could be discontinued and that there would be some response to
+ceftriaxone plus gentamicin. A PICC line was placed on 5/8/07
+for continued IV antibiotics and the patient should continue a
+full six-week course of ceftriaxone and at least a two-week
+course of gentamicin for presumed endocarditis despite
+both negative transthoracic echocardiogram and transesophageal echocardiogram
+given his high risk for endocarditis.
+3. GI: The patient was continued on his home dose of Protonix
+and all his stools were guaiaced and were negative in house. The
+patient should be continued on p.r.n. Colace.
+4. Endocrine: The patient has a history of insulin dependent
+diabetes mellitus. His Lantus was titrated up to 36 units
+nightly and at that level required no sliding scale insulin.
+5. Renal: The patient was found to have a slightly elevated
+creatinine above his baseline on admission ( 1.9 with a baseline
+of 1.1 to 1.3 ). This elevated creatinine was thought to likely
+be due to his CHF and poor forward flow. As the patient was
+diuresed , his creatinine decreased to 1.4 at the time of
+discharge. Given his creatinine elevation , however , his Losartan
+was held and this should be held while the patient is on gentamicin.
+6. GU: The patient has a history of BPH and at the time of
+admission had a suprapubic catheter that was inserted in 0/24
+due to difficulty to pass Foley catheter. The catheter was
+clamped and post-void residuals were checked and were only 50 mL
+and the patient was urinating without difficulty with tube clamped ,
+so Urology was consulted and suprapubic catheter was pulled
+without difficulty. Suprapubic wound was dressed with a sterile
+dry dressing to be changed daily.
+7. Fluids , Electrolytes and Nutrition: The patient has a
+current input and output goal of 0.5 L negative daily. He is on a 2L fluid
+restriction.
+Electrolytes. The patient has been having twice daily
+electrolyte checks to keep his magnesium above 2 and his
+potassium above 4 given his arrhythmias while he is on 80 mg of
+Lasix daily. This should be continued.
+Nutrition. The patient was placed on a cardiac , 2-gm sodium
+diet and a 2 L fluid restriction.
+8. Pulmonary: The patient is to continue on Flovent and
+albuterol.
+9. Heme: The patient was continued on Niferex twice daily for
+iron deficiency anemia. He was also found to have a very mild
+eosinophilia , which should be followed.
+10. Derm: The patient was found to have a skin tear on his
+right hand. This is being treated with neomycin ointment and
+sterile dry dressing changes daily.
+11. Prophylaxis: The patient was placed on subcutaneous heparin
+5000 units three times daily and continued on his PPI.
+CODE: The patient is full code.
+PHYSICAL EXAMINATION AT THE TIME OF DISCHARGE: Vital Signs:
+temperature 98.7 , blood pressure is 118-140/60-70 , heart rate
+35-58 , respiratory rate 18-20 , oxygen saturation 94-100% on room
+air , 100% on 2 L. Weight 96.6 kg. On general exam , the patient
+is in no acute distress. Neuro: The patient is alert and
+oriented x3. Pulmonary: There are decreased breath sounds a
+quarter of the way up on the left lung field and there are
+decreased breath sounds at the bases on the right lung field.
+Cardiovascular: There is an irregularly irregular rhythm and
+with bradycardia. There is a 2/6 systolic ejection murmur at the
+right upper sternal border. JVP is 5-6 cm of water. Abdomen:
+There are normoactive bowel sounds present. Abdomen is soft ,
+obese , nondistended and nontender. Suprapubic catheter site is
+without purulence or erythema. Extremities: There is 1+ pitting
+edema to the shins bilaterally with chronic venous stasis changes
+bilaterally. Skin: There are no rashes present. There are no
+splinter hemorrhages or Osler nodes noted.
+LABS AT TIME OF DISCHARGE: Sodium 141 , potassium 4.0 , chloride
+108 , bicarbonate 26 , BUN 41 , creatinine 1.5 , glucose 164 , calcium
+9.1 , magnesium 2.0 , hematocrit 29.2 , white blood cell count 8.9 ,
+platelets 227 , INR 1.1 , PTT 38.1. There are 68% polys , 18%
+lymphocytes , 7.1% monocytes and 5.9% eosinophils. Gentamicin
+peak is 17.8 with a trough of 0.9.
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg p.o. once daily.
+2. Albuterol nebulizer2.5 mg nebulized q.6 h. as needed for
+wheezing.
+3. Albuterol nebulizer 2.5 mg nebulized q.12 h.
+4. Dulcolax 5 mg p.o. daily as needed for constipation.
+5. Ceftriaxone 2000 mg IV daily to be continued until 6/25/07 . 
+6. Gentamicin 80 mg IV daily to be continued at least until
+0/20/07 . 
+7. Colace 100 mg p.o. b.i.d.
+8. Fluticasone nasal spray one spray in each nostril b.i.d.
+9. Flovent 110 mcg inhaled twice daily.
+10. Lasix 80 mg p.o. q.a.m.
+11. Heparin 5000 units subcu q.8h.
+12. Lantus 36 units subcutaneously at bedtime.
+13. Lispro sliding scale subcutaneously a.c.
+14. K-Dur 40 mEq p.o. b.i.d.
+15. Niferex 150 mg p.o. b.i.d.
+16. Pantoprazole 40 mg p.o. q.12 h.
+17. MiraLax 17 gm p.o. daily as needed for constipation.
+18. Sarna topical to be used daily as needed for itching.
+19. Senna two tablets p.o. b.i.d.
+20. Simvastatin 40 mg p.o. at bedtime.
+21. Multivitamin with minerals one tablet p.o. daily.
+22. Bacitracin ointment to be applied to right hand lesion
+b.i.d.
+DISPOSITION: The patient will be discharged to rehabilitation.
+At the time of discharge , there are two blood cultures that are
+no growth to date but needs to be followed up.
+FOLLOWUP PLANS:
+1. The patient is to have a basic metabolic panel checked twice
+daily while he IS actively diuresing with Lasix and after this
+time , should have basic metabolic panel checked at least twice
+weekly to follow electrolytes and creatinine while he is on
+antibiotics.
+2. Please draw a CBC with differential at least once weekly
+while he is on gentamicin and ceftriaxone.
+3. Please draw a gentamicin trough once weekly and adjust
+gentamicin doses as needed.
+4. Infectious disease consultant is to determine whether to the
+gentamicin should be continued beyond two weeks.
+5. Consider surveillance blood cultures one week after
+completing antibiotic therapy to document clearance.
+6. Please place neomycin ointment to right hand lesion daily and
+cover with sterile dry dressings to be changed daily.
+7. Continue dry sterile dressing to the suprapubic catheter site
+to be changed daily until the wound is healed.
+8. Consider repeat urine cultures two weeks after time of
+discharge to document clearance of pseudomonal UTI.
+9. Would hold off on restarting Losartan until gentamicin is
+discontinued.
+10. Please follow up all pending blood cultures.
+FOLLOWUP APPOINTMENTS:
+1. Appointment with Dr. Owen Cuthbert in the Infectious Disease
+Clinic at Tauscack Hospital Medical Center on 11/2/07 at 8 a.m.
+The patient was discharged at a weight of 96.7 kilograms. His
+dry weight is approximately 93 kilograms. His In's and Out goals
+should be -500 cc daily. He is currently on Lasix 80 mg in the
+morning.
+eScription document: 7-7343409 CSSten Tel
+Dictated By: STRATMAN , OSVALDO
+Attending: MONEY , JEREMY
+Dictation ID 8688712
+D: 5/11/07
+T: 5/11/07
+[report_end]
+
+RECORD #55830
+980182534 | BH | 09259107 | | 5782121 | 10/16/2006 12:00:00 AM | ATRIAL FIBRILLATION | Unsigned | DIS | Admission Date: 7/10/2006 Report Status: Unsigned
+Discharge Date: 8/17/2006
+ATTENDING: DYESS , DUANE MD
+CHIEF COMPLAINT: Shortness of breath.
+HISTORY OF PRESENT ILLNESS: The patient is an 83-year-old female
+with history of coronary artery disease , hypertension , AFib ,
+diabetes , chronic renal insufficiency , status post permanent
+pacemaker , presenting with exertional shortness of breath x 1
+week , orthopnea , and runs of NSVT. Shortness of breath started 1
+week ago. The patient was found to be in AFib and started on
+Lopressor by PCP; however , shortness of breath worsened , patient
+began sleeping upright in her recliner with worsening shortness
+of breath. Denies any chest pain , nausea , vomiting , diaphoresis ,
+or radiating pain. Patient also reports decreased activities of
+daily living over the past week secondary to fatigue.
+PAST MEDICAL HISTORY: November 2001 , status post two-vessel CABG
+and NSTEMI; 1/5 , found to have an EF of 30% to 35%. Echo in
+2003 notable for mild left ventricular dilatation , EF of 35% to
+40% with global hypokinesis with hypokinesis of the anterior
+septum , mid inferior-posterior basal septum , aortic valve area of
+0.9 , MR , left atrial enlargement , TR , and PAP of 38. Patient
+also has a history of chronic renal insufficiency; hypertension;
+AFib , on Coumadin; status post permanent pacemaker; anemia;
+status post bladder resection secondary to cancer;
+insulin-dependent diabetes; aortic stenosis; hypothyroidism;
+peripheral vascular disease.
+ALLERGIES: Patient has no known allergies.
+MEDICATIONS: Coumadin 1 mg; insulin , Lantus , 30 units q.h.s.;
+aspirin 325 mg; lisinopril 40 mg; Levoxyl 100 mcg; amiodarone 200
+mg; Zocor 80 mg; Lopressor 50 mg b.i.d.; Lasix 120 mg b.i.d. ,
+Multivitamin; calcium carbonate.
+SOCIAL HISTORY: The patient lives in in-law apartment with
+family. No tobacco or alcohol use.
+FAMILY HISTORY: Noncontributory.
+REVIEW OF SYSTEMS: Notable for no fever , chills , nausea ,
+vomiting , diarrhea , or chest pain. Patient does report a viral
+syndrome 1 month ago. No new cough. Patient reports she last
+felt well 1 month ago.
+PHYSICAL EXAMINATION: Physical exam in the ED notable for T-Max
+97.1 , heart rate 68 , BP 95 to 122/61 to 83 , respiratory rate of
+20. O2 sat 94 on room air. Patient was in no acute distress ,
+sitting upright , and virtually speaking in full sentences.
+Mucous membranes moist. JVP at the earlobes 18 to 20. Rhonchi
+in her right base with an irregularly irregular rhythm , S1 and
+S2 , 2/6 systolic ejection murmur at the right upper sternal
+border. Abdomen was obese , nontender , nondistended. Positive
+bowel sounds. No hepatosplenomegaly. Extremities were warm ,
+dry , and intact. No edema. DP , PT 1+ bilaterally. Skin was
+warm , dry , and intact. No rashes. Patient was alert and oriented
+x 3. Cranial nerves II through XII grossly intact. Moving all
+extremities.
+LABORATORY DATA: Admission labs Notable for creatinine of 2.1
+from baseline of 1.4 to 1.6. Potassium 4.7 , magnesium 2.7 , white
+count 7.47 , hematocrit 46.3 from baseline 37 to 39. First set of
+enzymes were negative. BNP 365 , INR of 3.3. Chest x-ray
+consistent with pulmonary edema. EKG notable for atrial
+fibrillation with nonspecific ST changes and a paced rhythm.
+In summary , this is an 83-year-old female with a history of
+coronary artery disease , hypertension , CHF , aortic valve
+stenosis , paroxysmal AFib , status post permanent pacemaker with
+recent conversion into AFib 1 week ago. Started on beta-blocker
+by PCP , presenting with CHF exacerbation concerning for ischemia.
+Telemetry also notable for multiple runs of NSVT concerning for
+ongoing ischemia.
+CARDIOVASCULAR: Patient has an EF of 35%. When last examined in
+2003 , on presentation , was volume overloaded. However , BP was
+well controlled. Patient was diuresed with IV Lasix and then
+converted to an oral regimen. Blood pressure was titrated as
+well as heart rate for improved rate control. ACE inhibitor was
+initially held in the setting of worsening renal function ,
+however , restarted prior to discharge. A repeat echo on 10/7
+revealed an EF of 35% with an akinetic septal and inferior wall;
+hypokinetic anterior lateral and posterior wall as well as left
+atrial enlargement. Aortic valve stenosis with a gradient of 17
+and mean of 10 with moderate AF , MR , TR with a peak AP of 29 and
+the right atrial pressure similar to the prior study in 2003.
+Ischemia , patient also has a history notable for coronary artery
+disease status post CABG. Although the patient denied ongoing
+chest pain , given history of diabetes , we were concerned for
+ongoing ischemia. However , enzymes were negative x 3 with
+telemetry notable for multiple runs of NSVT , stretching 20 to 30
+beats , concerning for ongoing ischemia. Patient underwent
+cardiac cath on 4/27 , which was notable for a left main 70%
+stenosed and LAD 100% stenosed , circumflex 90% stenosed , RCA 100%
+stenosed , large one 100% stenosed with an intact LIMA to LAD
+graft as well as an intact SVT to OM graft. Patient underwent
+Rotablator and balloon to the left circumflex and the OM lesions
+and the LAD , left circumflex , and OM were stented. Patient was
+continued on aspirin , beta-blocker , and statin. Patient was
+started on Plavix. Patient was instructed to remain on Plavix
+until further notice. Patient has baseline AFib with runs of
+NSVT , which improved significantly status post revascularization.
+Rate control was improved with a regimen of beta-blocker and
+amiodarone. Patient will be continued to be monitored on
+telemetry.
+PULMONARY: Patient oxygenated well throughout her hospital stay.
+Patient was carefully diuresed in the setting of acute on
+chronic renal insufficiency in the setting of a dye load. On
+discharge , she is oxygenating well on room air.
+HEME: Hematocrit remained stable throughout her hospital course.
+Coumadin was initially discontinued to proceed with cardiac
+cath; however , patient was restarted on Coumadin with PCP
+followup to follow INR. At the time of discharge , the patient has
+mild thrombocytopenia. PCP will continue to monitor.
+ENDOCRINE: Patient has a history of diabetes mellitus , on
+insulin , was continued during her hospital stay , increased her
+Lantus dose secondary to suboptimal blood sugar control.
+Hemoglobin A1c in May was noted to be 6 , indicative of good
+control. Patient also has a history of hypothyroidism. TSH
+within normal limits and she was continued on her current dose of
+Levoxyl.
+RENAL: Patient has acute on chronic renal failure , baseline
+creatinine of 1.4 to 1.6 , likely secondary to poor forward flow.
+Creatinine improved with diuresis. At the time of discharge ,
+creatinine was in the range of 1.8. Currently , she will be
+continued to be followed as an outpatient. Patient will be
+started back on ACE inhibitor prior to discharge. Prior to
+cardiac cath , the patient did receive bicarb and Mucomyst to aid
+in renal protection. At p.m. , patient was maintained on a
+cardiac food-restricted diet.
+NEURO , OPHTHO: Status post cardiac cath , patient complained of
+left blurry vision. Patient was evaluated by neurology and
+ophthalmology , which revealed a left corneal abrasion. They
+recommended no further imaging studies , however , one may consider
+carotid ultrasound as an outpatient to further evaluate.
+DISCHARGE CONDITION: Stable.
+DISCHARGE MEDICATIONS: Aspirin 325 mg q.d. , amiodarone 200 mg
+q.d. , Lopressor 337.5 p.o. t.i.d. , Levoxyl 100 mcg p.o. q.d. ,
+Multivitamin 1 tab p.o. q.d. , Zocor 80 mg p.o. q.h.s. , Caltrate
+Plus D 1 tab p.o. q.d. , Lantus 30 units q.d. , Coumadin 2 mg
+q.h.s. , Lasix 180 mg p.o. b.i.d. , Plavix 75 mg p.o. q.d. ,
+lisinopril 20 mg p.o. q.d. Patient will follow up with PCP , Dr
+Gehler , on 7/23/06 at 2:40 p.m. INR will be drawn on 0/24 and
+followed by Dr Downs Patient has home VNA for BP checks and
+volume status. Any questions may be directed at Dr Dedecker
+eScription document: 3-5879787 HF
+Dictated By: DUNAHOE , SHELBY
+Attending: HOECK , ANDREA
+Dictation ID 0935419
+D: 1/12/06
+T: 1/12/06
+[report_end]
+
+RECORD #81367
+
+
+123062313 | AEH | 08575929 | | 500313 | 2/28/1998 12:00:00 AM | ASTHMA FLARE | Signed | DIS | Admission Date: 0/13/1998 Report Status: Signed
+
+Discharge Date: 1/2/1998
+PRINCIPAL DIAGNOSIS: CHRONIC OBSTRUCTIVE PULMONARY DISEASE FLARE.
+TRACHEOBRONCHITIS.
+ADDITIONAL DIAGNOSIS: HYPERTENSION.
+DIABETES MELLITUS.
+OSTEOARTHRITIS.
+CORONARY ARTERY DISEASE.
+STATUS POST TOTAL ABDOMINAL HYSTERECTOMY ,
+BILATERAL SALPINGO-OOPHORECTOMY.
+TROCHANTERIC BURSITIS.
+HISTORY OF OTITIS.
+ECHOCARDIOGRAM IN May 1994 SHOWING NORMAL
+LEFT VENTRICULAR FUNCTION AND MILD LEFT
+VENTRICULAR HYPERTROPHY.
+HISTORY OF PRESENT ILLNESS: The patient is a 78 year old woman
+with the above medical problems , who
+presented with increasing shortness of breath , dry cough , and
+wheezing. She was a former smoker , quit 7-8 years ago , but had a
+20 pack year smoking history. She was recently diagnosed over the
+summer with a chronic cough which was thought secondary to reactive
+airway disease and responded to Serevent. Over the 24 hours prior
+to this admission , she developed general malaise , fevers , dry
+cough , and some nausea and vomiting with blood. There was no
+diarrhea. She had some nasal congestion. She was sent in by the
+VNA Services as she had a temperature of 101.7 degrees and was
+unable to take p.o.'s. In the Emergency Department , she was given
+intravenous fluids , Solu-Medrol , and nebulizers.
+PAST MEDICAL HISTORY: As above.
+ALLERGIES: No known drug allergies.
+MEDICATIONS ON ADMISSION: Lisinopril 10 mg p.o. q.d. , Isordil 10
+mg p.o. t.i.d. , aspirin 81 mg p.o. q.d. ,
+Tenormin 50 mg p.o. q.d. , Micronase 5 mg p.o. q.d. , and Serevent
+two puffs q.a.m. and q.p.m.
+SOCIAL HISTORY: The patient has VNA services. She smoked 20 pack
+years in the past but quit seven years ago. She
+does not drink alcohol.
+FAMILY HISTORY: Noncontributory.
+REVIEW OF SYSTEMS: Noncontributory.
+PHYSICAL EXAMINATION: On admission , temperature was 101.9 , heart
+rate 76 , blood pressure 135/89 , respiratory
+rate 26 , with room air saturation of 94%. She was ill appearing
+and had a white nasal discharge. Oropharynx was clear. Neck was
+supple. There was no lymphadenopathy. Chest revealed diffuse
+scattered wheezes with decreased breath sounds. Cardiovascular
+exam revealed a regular rate and rhythm without murmur. Abdomen
+was obese , soft , nontender. Extremities were without edema ,
+nontender , and without cords.
+LABORATORY DATA: CBC was normal with hematocrit of 43 and white
+count of 6.8. SMA-7 was normal , with normal
+renal functions. Urinalysis was dark yellow with a concentrated
+specific gravity , otherwise negative. EKG showed normal sinus
+rhythm at 74 with nonspecific ST-T wave changes. Chest x-ray
+showed left lower lobe atelectasis which was unchanged when
+compared to May 1997 , no acute disease.
+HOSPITAL COURSE: The patient was admitted and treated with
+Albuterol and Atrovent nebulizers and Prednisone ,
+as well as Biaxin 500 mg p.o. b.i.d. She was also given gentle
+intravenous fluid hydration and Axid for her nausea and vomiting
+which resolved. The patient improved slowly over three days with
+respect to her breathing and oxygenation. On the day of admission ,
+her room air 02 saturation was 92% , and she was feeling well. She
+was discharged in stable condition.
+DISCHARGE MEDICATIONS: Same medications as on admission , with the
+addition of Axid 150 mg p.o. b.i.d. ,
+Albuterol inhaler two puffs q.i.d. p.r.n. shortness of breath ,
+Atrovent two puffs inhaled q.i.d. , Biaxin 500 mg p.o. b.i.d. times
+ten days , Prednisone taper 40 mg p.o. q.d. times three days then 20
+mg p.o. q.d. times three days.
+FOLLOW-UP: She will follow-up with Dr. Agcaoili in MAWSYLV MEDICAL CENTER Clinic
+on 3 of October . 
+Dictated By: DWAIN A. RECAR , M.D. AA78
+Attending: CARLOS C. MARQUES , M.D. UG10  YI198/3284
+Batch: 28654 Index No. Q1IAUA72YM D: 5/10/98
+T: 10/9/98
+[report_end]
